@@ -1,5 +1,5 @@
 # KDD-CoGNN
-code for our KDD paper ''CoGNN: A Co-training Graph Neural Network Framework for Few-shot Graph Classification under the Federated Learning Setting''.
+code for our KDD paper ''CoGNN: A Co-training Graph Neural Network Framework for Few-shot Graph Classification''.
 
 prerequisites:
 python==3.7.0
